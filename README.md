@@ -1,3 +1,3 @@
 # VPEG
 
-F**kin particles, how do they work?
+A fork of Particle Prodigy for my profile.
